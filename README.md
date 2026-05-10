@@ -89,3 +89,5 @@ main.py is the one that preprocessed our dataset(tokenization, stemming...)
 processed_data.txt is the processed dataset by main.py
 stop_list.txt is the manually and automatically extracted stopwords
 vsm.py is the second model.
+
+THERE IS A MISSING FILE FROM THE ZIP, WHICH IS "config.py" it contain the API key for the GenAI, so,  it you want to access the API key(if you have the right to do so). contact me with https://t.me/kevofar
